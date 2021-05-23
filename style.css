@@ -1,0 +1,64 @@
+/* Position Static slide 4 */
+.parent {
+	background: blue;
+}
+.parent {
+	background: blue;
+	position: static;
+}
+
+.child {
+	background: red;
+}
+
+/* Position relative slide 5 */
+/* .parent {
+	background: blue;
+	position: relative;
+}
+
+.child {
+	background: red;
+	position: absolute;
+	top: 20px
+} */
+
+/* Positon absolute slide 6 */
+/* .parent {
+	background: blue;
+	position: relative;
+}
+
+.child {
+	background: red;
+	position: absolute;
+	top: 0;
+	left: 0;
+} */
+
+/* Positon fixed slide 7 */
+/* .parent {
+	background: blue;
+	position: relative;
+}
+
+.child {
+	background: red;
+	position: fixed;
+	left: 0;
+	right: 0;
+} */
+
+/* Position Sticky slide 8 */
+
+/* .parent {
+	background: blue;
+	position: relative;
+}
+
+.child {
+	background: red;
+	position: sticky;
+	top: 0;
+	right: 0;
+} */
